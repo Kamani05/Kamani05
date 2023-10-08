@@ -1,12 +1,12 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Kamani05/Kamani05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Computer Support Assistance | 🌐 Network Engineer | 🚀 DevOps Enthusiast 
 
+🌐 Networking geek: Configuring, securing, and troubleshooting networks is my passion.
+🛠️ DevOps advocate: Automating deployments and enhancing CI/CD pipelines to streamline development.
 
-- 🔭 I’m currently working on Full-stack developer passionate about building scalable web applications with Python, JavaScript and React.
-- 🌱 I’m currently learning Let's connect and code together!
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: kamani0523@gmail.com
-- ⚡ Fun fact:  I consider myself a technomancer."
--->
+📚 Constantly learning and staying up to date with the latest IT trends and technologies.
+💬 Let's connect and collaborate on exciting IT projects!
+📫 Reach me at. Kamani0523@gmail.com
+⚡ Fun fact:  I consider myself a technomancer."
+![image](https://github.com/Kamani05/Kamani05/assets/144798976/5ba3e3d2-4c6c-4d6f-a08f-68b3e6b6f001)
