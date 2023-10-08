@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👨‍💻 Software Engineer | 🚀 DevOps Enthusiast | 🌐 Open Source Contributor
+- 👨‍💻 Computer Support Assistance | 🚀 DevOps Enthusiast | 🌐 Open Source Contributor
 - 🔧 Passionate about creating clean, efficient, and scalable code.
 - 🌱 Constantly learning and exploring new technologies to stay ahead in the tech world.
 - 🧰 Proficient in Python, JavaScript and React.
